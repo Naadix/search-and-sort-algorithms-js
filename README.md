@@ -10,6 +10,7 @@ This repository includes common searching and sorting algorithms implemented in 
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+- Merge Sort
 - Quick Sort
 
 ## 📁 How to use
