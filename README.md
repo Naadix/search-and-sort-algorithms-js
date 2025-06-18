@@ -9,6 +9,7 @@ This repository includes common searching and sorting algorithms implemented in 
 ## 🔃 Sorting Algorithms
 - Bubble Sort
 - Insertion Sort
+- Selection Sort
 - Quick Sort
 
 ## 📁 How to use
