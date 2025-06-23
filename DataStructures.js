@@ -35,7 +35,7 @@ const stack = new Stack();
 // stack.isEmpty()
 // stack.length();
 
-/* ============== Exercice of Stack ==============*/
+/* ============== Exercice of Stack About String is valid or no ==============*/
 
 
 function isValide(s) {
@@ -59,6 +59,8 @@ function isValide(s) {
 }
 
 //console.log(isValide('(){}[]'));
+
+/* ============== Exercice of Stack About The minimum value in stack ==============*/
 
 
 class MinStack {
